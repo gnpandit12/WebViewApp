@@ -1,6 +1,5 @@
-package com.example.webviewapp.Views;
+package com.vita.pure.Views;
 
-import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
 
 import android.app.Activity;
@@ -10,8 +9,8 @@ import android.os.Handler;
 import android.util.Log;
 import android.widget.ImageView;
 
-import com.example.webviewapp.R;
-import com.example.webviewapp.databinding.ActivityMainBinding;
+import com.vita.pure.R;
+import com.vita.pure.databinding.ActivityMainBinding;
 
 public class MainActivity extends Activity {
 

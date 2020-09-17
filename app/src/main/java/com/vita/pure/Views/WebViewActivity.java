@@ -1,6 +1,5 @@
-package com.example.webviewapp.Views;
+package com.vita.pure.Views;
 
-import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
 
 import android.app.Activity;
@@ -11,9 +10,9 @@ import android.view.KeyEvent;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
-import com.example.webviewapp.Model.WebViewClientImpl;
-import com.example.webviewapp.R;
-import com.example.webviewapp.databinding.ActivityWebViewBinding;
+import com.vita.pure.Model.WebViewClientImpl;
+import com.vita.pure.R;
+import com.vita.pure.databinding.ActivityWebViewBinding;
 
 public class WebViewActivity extends Activity {
 

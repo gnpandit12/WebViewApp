@@ -1,8 +1,7 @@
-package com.example.webviewapp.Model;
+package com.vita.pure.Model;
 
 import android.app.Activity;
 import android.content.Intent;
-import android.net.Uri;
 import android.webkit.WebResourceRequest;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;

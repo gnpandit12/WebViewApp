@@ -1,4 +1,4 @@
-package com.example.webviewapp;
+package com.vita.pure;
 
 import android.content.Context;
 

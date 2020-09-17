@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.webviewapp">
+    package="com.vita.pure">
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
@@ -11,8 +11,8 @@
         android:supportsRtl="true"
         android:usesCleartextTraffic="true"
         android:theme="@android:style/Theme.NoTitleBar">
-        <activity android:name=".Views.WebViewActivity"></activity>
-        <activity android:name=".Views.MainActivity">
+        <activity android:name="com.vita.pure.Views.WebViewActivity"/>
+        <activity android:name="com.vita.pure.Views.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
